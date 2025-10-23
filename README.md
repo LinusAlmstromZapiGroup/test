@@ -9,6 +9,6 @@ No code or information private to ZAPI group is
 allowed to end up in this repository as it is 
 a public repository exposed to internet.
 
-Added some lines to make a PR, 
+Added some more info and lines to the PR, 
 so there is something to review. Also made minor
 in line changes in previous paragraphs.
